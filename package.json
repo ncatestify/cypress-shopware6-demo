@@ -33,7 +33,7 @@
     "typescript": "4.8.4"
   },
   "devDependencies": {
-    "cypress": "^12.5.1",
+    "cypress": "^12.17.4",
     "cypress-ncatestify-plugin": "^2.0.16"
   }
 }
